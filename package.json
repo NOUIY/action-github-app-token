@@ -1,6 +1,6 @@
 {
   "name": "action-github-app-token",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "Gets a GitHub auth token for a GitHub App installation",
   "type": "module",
   "main": "lib/main.js",
